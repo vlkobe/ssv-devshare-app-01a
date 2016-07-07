@@ -27,7 +27,7 @@
         <sys_class_name>sys_relationship</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-30 14:41:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bc67f6424f142a00ccfcb5e18110c71b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Games Played</sys_name>

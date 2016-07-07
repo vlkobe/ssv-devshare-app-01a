@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-30 14:23:28</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1c7436024f142a00ccfcb5e18110c7e1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_7527_gametimenow_game</sys_name>

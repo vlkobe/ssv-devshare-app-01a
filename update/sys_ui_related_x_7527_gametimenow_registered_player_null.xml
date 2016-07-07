@@ -25,7 +25,7 @@
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-06-30 14:43:38</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c819fe024f142a00ccfcb5e18110c7a4</sys_id>

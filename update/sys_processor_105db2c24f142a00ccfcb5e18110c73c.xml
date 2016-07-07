@@ -30,7 +30,7 @@
         <sys_class_name>sys_processor</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-30 15:05:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>105db2c24f142a00ccfcb5e18110c73c</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>InsertGamePlayer</sys_name>

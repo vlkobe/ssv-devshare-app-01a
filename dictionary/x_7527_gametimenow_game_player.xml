@@ -2,6 +2,7 @@
 <database>
     <element label="Game Player" max_length="40" name="x_7527_gametimenow_game_player" type="collection">
         <element label="Game" max_length="32" name="game" reference="x_7527_gametimenow_game" type="reference"/>
+        <element label="MyTest" max_length="40" name="mytest" type="string"/>
         <element display="true" label="Player" max_length="32" name="player" reference="x_7527_gametimenow_registered_player" type="reference"/>
         <element label="Playing" max_length="40" name="playing" type="boolean"/>
         <index name="index">

@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-30 14:23:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7af3b2024f142a00ccfcb5e18110c7cb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Game</sys_name>
